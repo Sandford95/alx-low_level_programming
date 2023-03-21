@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print"with proper grammar, but the outcome is a piece of art,
- *  followed by a new line"
+ * main - a program to print the line using printf
  *  Return: 0 (Success)
  */
  
