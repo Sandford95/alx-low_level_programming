@@ -3,8 +3,9 @@
 /**
  * main - print"with proper grammar, but the outcome is a piece of art,
  *  followed by a new line"
- *  REturn: 0 (Success)
+ *  Return: 0 (Success)
  */
+ 
 
 int main(void)
 {
