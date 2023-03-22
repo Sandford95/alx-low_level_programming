@@ -5,13 +5,14 @@
  */
 int main(void)
 {
-	char c[] = "fanny";
-	int i;
-
-	for (i = 0; i < 9; i++)
-	{
-		_putchar(c[i]);
-	}
+	-putchar('_');
+	-putchar('p');
+	-putchar('u');
+	-putchar('t');
+	-putchar('c');
+	-putchar('h');
+	-putchar('a');
+	-putchar('r');
 	_putchar('\n');
 	return (0);
 }
