@@ -1,17 +1,15 @@
 #include "main.h"
-
 /**
  * print_numbers - prints the digits 1-9
- * Return: 0 if success
  */
 void print_numbers(void)
 {
-	int i = 0;
+	int c = 0;
 
-	while (i <= 9)
+	while (c <= 9)
 	{
-		_putchar(i + '0');
-		++i;
+	_putchar(c + '0');
+	++c;
 	}
 	_putchar('\n');
 }
