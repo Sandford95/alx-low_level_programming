@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * main- print the value of n to 98
  *
